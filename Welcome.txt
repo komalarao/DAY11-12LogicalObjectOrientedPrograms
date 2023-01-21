@@ -1,0 +1,9 @@
+package com.bridgelabz.stockAccounManagement;
+
+public class Welcome {
+
+	public static void main(String[] args) {
+		System.out.println("welcome to logiacal object oriented programs");
+	}
+
+}
